@@ -15,6 +15,6 @@ function divide(a, b) {
     throw new Error('Cannot divide by zero');
   }
   return a / b;
-}
+} 
 
 module.exports = { add, subtract, multiply, divide }; 
