@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ayoowo99-spec/github-actions-lab-2/issues"
   },
-  "homepage": "https://github.com/ayoowo99-spec/github-actions-lab-2#readme"
+  "homepage": "https://github.com/ayoowo99-spec/github-actions-lab-2#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
 }
